@@ -1,0 +1,2 @@
+sudo apt-get install python-pygame
+http://www.forum-raspberrypi.de/Thread-python-python-tastendruecke
