@@ -1,4 +1,4 @@
-# Laserquest USB-Box
+# Laserquest USB
 
 Steuern des Lasers per Cursor-Tasten (Ncurses / Linux) bei USB-Anbindung von Arduino Nano
 
