@@ -2,14 +2,16 @@
 
 Steuern des Lasers per Cursor-Tasten (Ncurses / Linux) bei USB-Anbindung von Arduino Nano
 
-String Position Parser für Arduino in der Form 
+String Position Parser für Arduino in der Form ...
 
 **x,y,1** 
 
-(Todo!) als Befehl über UART, d.h. **Laser X-Position** - Komma - **Laser Y-Position** - Komma - **Laser an/aus als 1 oder 0**
+... als Befehl über UART, d.h. **Laser X-Position** - Komma - **Laser Y-Position** - Komma - **Laser an/aus als 1 oder 0** ...
+
+... auch über Terminalprogramm nutzbar (!)
 
 Baudrate: Todo
-X/Y Wertebereich (?): Todo
+X/Y Wertebereich (immer bei Hardwarezusammenstellung ausprobieren ?): Todo
 
 Todo: 
 * Bild
