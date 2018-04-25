@@ -1,8 +1,8 @@
 # Laserquest USB
 
-Steuern des Lasers per Cursor-Tasten (Ncurses / Linux) bei USB-Anbindung von Arduino Nano
+Steuern (auslenken und Schalten) des Lasers / der zwei Servos per Cursor-Tasten (Ncurses / Linux) bei USB-Anbindung von einem Arduino Nano
 
-String Position Parser für Arduino Nano - empfängt Befehle in der Form ...
+String Position Parser - Arduino empfängt Befehle in der Form ...
 
 **x,y,1** ... z.B. **30,30,1**
 
@@ -10,7 +10,7 @@ String Position Parser für Arduino Nano - empfängt Befehle in der Form ...
 
 ... auch über Terminalprogramm testbar (!)
 
-Baudrate: Todo
+Baudrate: 9600
 X/Y Wertebereich (immer bei Hardwarezusammenstellung ausprobieren ?): Todo
 
 Todo: 
