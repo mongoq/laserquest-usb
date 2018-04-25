@@ -18,6 +18,4 @@ Todo:
 * Bild
 * Verkabelung Bild
 
-* Ubuntu Pakete (welche sind nachzuinstallieren für Ncurses 'Gaming' Library (?))
-
---> sudo apt-get install python-pygame (http://www.forum-raspberrypi.de/Thread-python-python-tastendruecke - testen (!))
+* Ubuntu Pakete (welche sind nachzuinstallieren für Ncurses 'Gaming' Library (?)) --> sudo apt-get install python-pygame (http://www.forum-raspberrypi.de/Thread-python-python-tastendruecke - testen (!))
