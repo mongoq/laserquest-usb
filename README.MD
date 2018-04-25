@@ -1,6 +1,6 @@
 # Laserquest USB-Box
 
-Auslenken des Lasers per Cursor-Tasten (Ncurses / Linux)
+Steuern des Lasers per Cursor-Tasten (Ncurses / Linux) bei USB-Anbindung
 
 Todo: 
 * Bild
