@@ -8,7 +8,7 @@ String Position Parser - Arduino empfängt Befehle in der Form ...
 
 ... über USB-UART, d.h. **Laser X-Position** - Komma - **Laser Y-Position** - Komma - **Laser an/aus als 1 oder 0** ...
 
-... auch über Terminalprogramm testbar (!)
+... auch einfach über Terminalprogramm testbar (!)
 
 Baudrate: 9600
 
