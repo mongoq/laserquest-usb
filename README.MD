@@ -17,4 +17,4 @@ X/Y Wertebereich (immer bei Hardwarezusammenstellung ausprobieren ?): Todo
 Todo: 
 * Bild
 * Verkabelung Bild
-* Ubuntu Pakete (welche sind nachzuinstallieren für Ncurses Gaming Library (?)) --> **sudo apt-get install python-pygame** (http://www.forum-raspberrypi.de/Thread-python-python-tastendruecke - Testen (!))
+* Ubuntu Pakete (welche sind nachzuinstallieren für Ncurses Gaming Library ?) --> **sudo apt-get install python-pygame** (http://www.forum-raspberrypi.de/Thread-python-python-tastendruecke - Testen (!))
