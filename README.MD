@@ -1,6 +1,6 @@
 # Laserquest USB
 
-Steuern (auslenken und Schalten) des Lasers / der zwei Servos per Cursor-Tasten (Ncurses / Linux) bei USB-Anbindung von einem Arduino Nano
+Steuern (auslenken und schalten) des Lasers / der zwei Servos per Cursor-Tasten (Ncurses / Linux) bei USB-Anbindung von einem Arduino Nano
 
 String Position Parser - Arduino empfängt Befehle in der Form ...
 
