@@ -8,7 +8,7 @@ String Position Parser für Arduino in der Form ...
 
 ... als Befehl über UART, d.h. **Laser X-Position** - Komma - **Laser Y-Position** - Komma - **Laser an/aus als 1 oder 0** ...
 
-... auch über Terminalprogramm nutzbar (!)
+... auch über Terminalprogramm testbar (!)
 
 Baudrate: Todo
 X/Y Wertebereich (immer bei Hardwarezusammenstellung ausprobieren ?): Todo
@@ -16,4 +16,4 @@ X/Y Wertebereich (immer bei Hardwarezusammenstellung ausprobieren ?): Todo
 Todo: 
 * Bild
 * Verkabelung Bild
-* Ubuntu Pakete (welche sind nachzuinstallieren (?))
+* Ubuntu Pakete (welche sind nachzuinstallieren für Ncurses 'Gaming' Library (?))
