@@ -11,6 +11,7 @@ String Position Parser - Arduino empfängt Befehle in der Form ...
 ... auch über Terminalprogramm testbar (!)
 
 Baudrate: 9600
+
 X/Y Wertebereich (immer bei Hardwarezusammenstellung ausprobieren ?): Todo
 
 Todo: 
